@@ -1,0 +1,25 @@
+{
+  "name": "gonewildml",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahirunirmalx/gonewild.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lahirunirmalx/gonewild/issues"
+  },
+  "homepage": "https://github.com/lahirunirmalx/gonewild#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "weaviate-ts-client": "^1.1.0"
+  },
+  "description": ""
+}
